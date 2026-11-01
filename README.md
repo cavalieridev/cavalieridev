@@ -39,11 +39,6 @@ Meu próximo passo é aprofundar meus conhecimentos em **cibersegurança**, cone
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,figma&theme=dark" alt="HTML, CSS, JavaScript, React, Java, Spring Boot e Figma" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-Modelagem%20e%20Consultas-8B6F55?style=for-the-badge&labelColor=201A16" alt="Banco de dados" />
-  <img src="https://img.shields.io/badge/CANVA-Prototipa%C3%A7%C3%A3o-8B6F55?style=for-the-badge&labelColor=201A16&logo=canva&logoColor=F3E8DC" alt="Canva" />
-</p>
-
 ## Projetos em destaque
 
 <table>
@@ -72,17 +67,6 @@ Meu próximo passo é aprofundar meus conhecimentos em **cibersegurança**, cone
     </td>
   </tr>
 </table>
-
-## GitHub em números
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cavalieridev&show_icons=true&hide_border=true&bg_color=0D0C0B&title_color=C6A88A&text_color=E8D8C7&icon_color=B89573&ring_color=C6A88A" alt="Estatísticas do GitHub de Luis Henrique" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalieridev&layout=compact&langs_count=7&hide_border=true&bg_color=0D0C0B&title_color=C6A88A&text_color=E8D8C7" alt="Linguagens mais usadas por Luis Henrique" />
-</p>
-
-<p align="center">
-  <sub>Os cartões são atualizados automaticamente e consideram os dados públicos disponíveis no GitHub.</sub>
-</p>
 
 ---
 
